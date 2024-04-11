@@ -1,0 +1,65 @@
+_repo: Some-religious-and-moral-teachings-of-Al-Ghazzali-b-Being-brief-extracts-from-his-Ihya-u-Ulum__73140
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Widgery, Alban G. (Alban Gregory)
+    alias: Widgery, Alban Gregory
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '42375'
+    url: http://www.gutenberg.org/2009/agents/42375
+  translator:
+    agent_name: Nawab Ali, Syed
+    alias: Ali, Syed Nawab
+    gutenberg_agent_id: '56957'
+    url: http://www.gutenberg.org/2009/agents/56957
+creator:
+  author:
+    agent_name: Ghazzali
+    aliases:
+    - Gazali
+    - Abu Hamid Muhammad ibn Muhammad ibn Ahmad al-Ghazzali
+    - Ghazzali, Abu Hamid Muhammad ibn Muhammad ibn Ahmad
+    - Ghasali
+    - Algazali
+    - Algazel
+    - Ghazali
+    - Al-Ghazali
+    - Houjjatoul-Islam
+    - Toussi, Mohamed Mohamed
+    - Al-Ghazali, Mohamed Mohamed
+    - Ebu Hâmid Muhammed el-Gazâlî
+    - Ebu Hamid Muhammed el-Gazali
+    - Imam Kassali
+    - Ghazzolii, Muhammad ibn Muhammad ibn Ahmad Abu Homid at-Tusii
+    - Gazaly, Muhammet
+    - Al-Ghazzali, Mohammed
+    birthdate: 1058
+    deathdate: 1111
+    gutenberg_agent_id: '50245'
+    url: http://www.gutenberg.org/2009/agents/50245
+    wikipedia: https://en.wikipedia.org/wiki/Al-Ghazali
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73140'
+  lccn: '35022526'
+language: en
+pgterms:marc905: 20071126004837alghazzali
+pgterms:marc906: '1921'
+pgterms:marc907: IN
+production_note: Fritz Ohrenschall and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aBaroda :$bA. G. Widgery, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Gaekwad studies in religion and philosophy, X.
+subjects:
+- !lcsh 'Islamic ethics -- Early works to 1800'
+- !lcc 'B'
+- GITenberg
+title: 'Some religious and moral teachings of Al-Ghazzali : $b Being brief extracts
+  from his Ihya-u-Ulum-id-din'
+url: http://www.gutenberg.org/ebooks/73140
